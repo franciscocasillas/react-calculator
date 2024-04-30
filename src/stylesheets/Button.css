@@ -16,7 +16,7 @@
 }
 
 .button-container:hover {
-	background-color: red;
+	background-color: rgb(105, 184, 245);
 }
 
 .operator {

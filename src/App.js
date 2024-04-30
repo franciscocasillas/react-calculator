@@ -2,6 +2,7 @@ import "./App.css";
 import alienScoutsLogo from "./images/alien-scouts-logo.png";
 import Button from "./components/Button";
 import Screen from "./components/Screen";
+import ClearButton from "./components/ClearButton";
 
 function App() {
 	return (
@@ -39,8 +40,8 @@ function App() {
 					<Button>.</Button>
 					<Button>/</Button>
 				</div>
-				<div className="company-name-container">
-					<span className="company-name">Alien Scouts</span>
+				<div className="row">
+					<ClearButton>Clear</ClearButton>
 				</div>
 			</div>
 		</div>

@@ -23,7 +23,7 @@
 
 .calculator-container {
 	width: 400px;
-	height: 600px;
+	height: 630px;
 	background-color: rgb(229, 248, 227);
 	border-radius: 20px;
 	border: solid 3px black;
@@ -34,11 +34,4 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-}
-
-.company-name-container {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	margin-top: 16px;
 }
