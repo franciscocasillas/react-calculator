@@ -39,6 +39,9 @@ function App() {
 					<Button>.</Button>
 					<Button>/</Button>
 				</div>
+				<div className="company-name-container">
+					<span className="company-name">Alien Scouts</span>
+				</div>
 			</div>
 		</div>
 	);
